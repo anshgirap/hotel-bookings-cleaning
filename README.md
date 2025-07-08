@@ -12,7 +12,7 @@ This project demonstrates data cleaning and preprocessing on a real-world hotel 
 ## 📁 Files Included
 
 - `hotel-bookings-cleaning.ipynb` – Main Jupyter notebook for cleaning
-- `hotel_raw.csv` – Original raw dataset
+- `hotelbookings_raw.csv` – Original raw dataset
 - `.gitignore`, `LICENSE`, `README.md` – Supporting project files
 
 ---
