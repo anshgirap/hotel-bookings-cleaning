@@ -11,13 +11,13 @@ This project demonstrates data cleaning and preprocessing on a real-world hotel 
 
 ## 📁 Files Included
 
-- `hotel-bookings-cleaning.ipynb` – Main Jupyter notebook for cleaning
+- `hotel-bookings-data-cleaning.ipynb` – Main Jupyter notebook for cleaning
 - `hotelbookings_raw.csv` – Original raw dataset
-- `.gitignore`, `LICENSE`, `README.md` – Supporting project files
+- `LICENSE`, `README.md` – Supporting project files
 
 ---
 
-## Key Skills Demonstrated
+## ⚙️ Key Skills Demonstrated
 
 - Handling missing values (mean, median, mode)
 - Dropping unnecessary or high-NaN columns
